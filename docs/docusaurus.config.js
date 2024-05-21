@@ -64,7 +64,7 @@ const config = {
         maxHeadingLevel: 5,
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/sanctum.png',
       navbar: {
         title: 'Sanctum RP Docs',
         logo: {
@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.gg/EGgSuz9y55',
               },
             ],
           },
