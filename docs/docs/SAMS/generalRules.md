@@ -38,8 +38,8 @@ Other procedures that paramedics may perform, and that EMTs do not, include admi
 - Be professional but have fun
 - Do not use helicopters while on duty, the current risk they prove does out outweigh the benefits.
 - You can use the ambulance to transport patients to destinations, do not use the ambulance as a taxi. Civilian “ride alongs” are permitted if approved by a Line Officer+.
-- All junior EMT-B’s must be accompanied by a EMT-P or TL unless given permission to ride solo prior to shift.
-- Chain of command is EMT-B > EMT > EMT-P > Team Leader > Assistant Chief > Chief.
+- All junior EMT-B’s must be accompanied by a EMT-I or TL unless given permission to ride solo prior to shift.
+- Chain of command is EMT-B > EMT-I > Team Leader > Assistant Chief > Chief.
 
 ## Radio Operations
 Radio Operations consist of everything transmitted over the radio from when calling in service as your call sign, until you call out of service as your call sign. ( 10 Codes Are A WIP ) 
