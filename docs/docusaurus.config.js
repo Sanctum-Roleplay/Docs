@@ -69,9 +69,14 @@ const config = {
         title: 'Sanctum RP Docs',
         logo: {
           alt: 'Sanctunm RP',
-          src: 'img/logo.svg',
+          src: 'img/sanctum.png',
         },
         items: [
+          {
+            href: 'https://sanctumrp.net/',
+            label: 'Main Site',
+            position: 'left',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
