@@ -123,10 +123,6 @@ const config = {
                 href: 'https://sanctumrp.net/',
               },
               {
-                label: 'Forum',
-                href: 'https://forum.sanctumrp.net/',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discordapp.gg/EGgSuz9y55',
               },
@@ -141,7 +137,7 @@ const config = {
               },
               {
                 label: 'Server Status',
-                href: 'https://status.sanctumrp.net/status/citys'
+                href: 'https://status.sanctumrp.net/'
               }
             ],
           },

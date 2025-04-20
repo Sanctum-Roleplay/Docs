@@ -15,7 +15,7 @@ export default function Rules(): JSX.Element {
           rules are crucial in ensuring a fair and realistic roleplay experience.
           We hope the rules listed outline everything but{" "}
         <strong>
-          keep in mind that rules are subject to change at nearly any time, A
+          keep in mind that rules are subject to change at nearly any time, An
           announcement will be given when a rule change occurs
         </strong>
         . If you have any questions or queries, feel free to contact a staff
