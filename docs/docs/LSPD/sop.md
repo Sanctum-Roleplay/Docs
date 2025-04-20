@@ -1,33 +1,27 @@
 ---
 sidebar_position: 3
 ---
-# **STANDARD OPERATING GUIDELINES OF THE LOS SANTOS POLICE DEPARTMENT**
+# LSPD - SOP
+## Standard Operating Guidelines of the Los Santos Police Department
 
 ## **Mission Statement**
 
+:::info
 It is the mission of the Los Santos Police Department to safeguard the lives and property of the people we serve, to reduce the incidence and fear of crime, and to enhance public safety while working with diverse communities to improve their quality of life.
+:::
 
 ## **Core Values:**
 
-**Honor**
-
-_To Regard with full respect_
-
-**Loyalty**
-
-_Strong support and allegiance to the office and community_
-
-**Dedication**
-
-_Committed to serving the community and office._
-
-**Compassion**
-
-_Sympathy to_
-
-**Integrity**
-
-_Honest and having strong moral principles_
+- **Honor**
+  - _To Regard with full respect_
+- **Loyalty**
+  - _Strong support and allegiance to the office and community_
+- **Dedication**
+  - _Committed to serving the community and office._
+- **Compassion**
+  - _Sympathy to_
+- **Integrity**
+  - _Honest and having strong moral principles_
 
 ## 1. **Mission and Organization of the office**
 

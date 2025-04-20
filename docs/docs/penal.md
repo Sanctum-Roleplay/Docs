@@ -1,139 +1,12 @@
 # Penal Code
 
-## Table of Contents
+:::warning
+These are currently being moved into a more organized fashion, so this page will be half-complete
 
-- PREAMBLE: Policy and Guidelines
-- DEFINITIONS
-- TITLE 1. Crimes Against The Person (PC1-01 to PC1-10)
-- TITLE 2. Crimes Against Property And Criminal Profiteering (PC2-01 to PC2-15)
-- TITLE 3. Crimes Against Public Decency (PC3-01 to PC3-07)
-- TITLE 4. Crimes Against Public Justice (PC4-01 to PC4-16)
-- TITLE 5. Crimes Against Public Peace (PC5-01 to PC5-03)
-- TITLE 6. Crimes Against Public Health And Safety (PC6-01 to PC6-09)
-- TITLE 7. Crimes Against State Dependents (PC7-01 to PC7-04)
-- TITLE 8. Vehicular Offenses (PC8-01 to PC8-29)
-- TITLE 9. Control Of Deadly Weapons And Equipment (PC9-01 to PC9-03)
-- TITLE 10. Operation of Commercial Motor Vehicles (PC10-01 to PC10-04)
-- TITLE 11. Operation of Aircraft (PC11-01 to PC11-06)
-- TITLE 12. Operation of Boats (PC12-01 to PC12-03)
-- TITLE 13. Sentencing Enhancements (PC13-01 to PC13-06)
-- TITLE 14. Code Policy and Legal Procedures (PC14-01 to PC14-13)
-- TITLE 15. State Code Violations (PC15-01 to PC15-04)
-- TITLE 16. Correctional Services (PC16-01 to PC16-03)
-- TITLE 17. Wildlife Conservation (PC17-01 to PC17-09)
-- TITLE 18. Amendments (PC18-01 to PC18-03)
-- Sentencing Quick Reference Guide
-
-## PREAMBLE: Policy and Guidelines
-
-### Purpose
-
-For the creation of a document that ensures the safety of the people of Sanctum and a fair, well-documented process for the enforcement of criminal penalties in the State of Sanctum as written in its laws and codes. This document is only for use for in-game/in character infractions and does not create a set of rules for use outside of game or outside of character.
-
-### Citing the Code
-
-For consistency and to allow ease of understanding, please refer to penal code entries in one of three ways:
-
-1. With the full title, underlined, prefix first. For example, ****(1)01****. Criminal Threats or ****(10)01****. Drivers Licenses
-2. With the prefix (x)xx. For example, ****(1)01****. or ****(10)01****.
-3. With the shortening code PCX-XX. For example, PC1-01 or PC10-01
-
-## Definitions.
-
-1. A “Person” refers to any living human being or individual.
-2. A “Civilian” refers to any individual who is not an on-duty peace officer or national guardsman.
-3. A “Peace Officer” refers to an individual who is, through a badge, unique identifier, or other internal police protocol, an on-duty officer of the law. Police are expected to maintain appropriate internal policy to distinguish when an officer is on duty, plain clothes, and other states besides a typically uniformed officer.
-4. A “Government employee” refers to any on-duty employee of a city, county, state agency, including but not limited to a Officer, paramedic, lawyer, legislator, judge, states attorney or mayor.
-5. A “Weapon” refers to any object, tool or item, whether or not regulated or manufactured, that a person utilizes to inflict harm, threaten harm, or utilize in lieu of a regulated or manufactured item that, when used as intended, can inflict harm.
-6. A “Highway” is a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel. Highway includes street.
-7. A “MDC” refers to the Mobile Database of Criminals, or the official State of Sanctum database system for criminal and personal identification and information.
-8. Specific punishment modifiers shall be defined in Title 10. Sentencing Enhancements.
-9. "Stacking Charges" refers to a suspect committing a specific crime on multiple occasions or during multiple incidents. Each "stacked charge" or "count" of the crime will be added to the criminal's record and includes all related punishments, subject to ****(10)00**** Exceptions.
-10. ((The age, gender, or mental state of your character has no bearing on your location of imprisonment or time of imprisonment.))
-11. ((Nothing in this document should be used for any real world purpose. This document is not an attempt to create real world legal advice.))
+[Please go here for the new penal code](https://docs.sanctumrp.net/docs/PENALCODE)
+:::
 
 ### **Title 1. Crimes Against The Person**
-
-#### **(1)01**. Criminal Threats
-
-- A person who communicates to another that they will physically harm or kill such other, placing such other in a reasonable state of fear for their own safety is guilty under this code section.
-- A person who communicates that they will physically harm or kill another person’s close friends or relatives is guilty under this code section.
-- Such communication can be not just verbal, but also in writing or transmitted through other media is guilty under this code section.
-
-:::info
-Criminal Threats differs from assault in terms of the distance between the acts. Criminal Threats can occur across the street, while assault is up close, within reach of leading to battery.
-:::
-
-#### **(1)02**. Assault
-
-A person who intentionally puts another in the reasonable belief of imminent physical harm or offensive contact is guilty under this code section.
-
-1\. Enhancement for violation against a peace officer.
-
-:::info
-Assault is defined by distance the threats occur. Someone a few feet away threatening to harm or kill you at any moment is assault. Criminal Threats is less severe as there’s a distance that someone can escape through, or that the perpetrator has more time to reconsider the threat.
-
-Any unwanted physical contact is considered to be battery, however grabbing someone during a threat may be either assault or battery, depending on intention and interpretation.
-:::
-
-#### **(1)03**. Assault With A Deadly Weapon
-
-A person who attempts to cause or threaten immediate harm to another while using a weapon, tool, or other dangerous item to communicate that threat is guilty under this code section.
-
-1\. Enhancement for violation against a peace officer.
-
-:::info
-Assault With A Deadly Weapon matches the description of Assault, but the perpetrator also has a weapon or tool being used to communicate or facilitate that violence or fear. See Assault for additional notes. Any act of Criminal Threats with a weapon is considered Assault With a Deadly Weapon, but the weapon must be visibly seen for this to count.
-:::
-
-**(1)04**. Battery
-
-A person who uses intentional and unlawful force or violence to cause physical harm to another person is guilty under this code section.
-
-:::info
-Battery is defined as the moment aggressive physical contact occurs. The first punch or two would be Battery. To keep punching and fighting extensively afterward is Aggravated Battery.
-
-Grabbing someone may be either assault or battery, depending on the circumstances. Discharging bodily fluids onto another without their consent is considered battery.
-:::
-
-#### **(1)05**. Aggravated Battery
-
-A person who commits battery and serious bodily injury is inflicted on the person is guilty under this code section.
-
-1\. Enhancement for violation against a peace officer.
-
-:::info
-Aggravated Battery is the continued violence or battery against an individual, such as an ongoing fight or brawl, that doesn’t lead to severe bodily harm or life threatening injury.
-:::
-
-#### **(1)06**. Attempted Murder
-
-A person who takes a direct step towards killing another person and intended to kill that person is guilty under this code section.
-
-#### **(1)07**. Manslaughter
-
-- A person who unintentionally kills another, with or without a quarrel or heat of passion is guilty under this code section.
-- A person who, through a criminal accident or negligence, causes someone's death is guilty under this code section.
-
-:::info
-Manslaughter is homicide that is not premeditated or proven to have intent or an opportunity to pause and reflect on killing that person. An opportunity to reflect (and therefore possibly change your mind) demonstrates premeditation and is murder. Manslaughter is only charged in the penal code when some sort of criminal negligence or action can be proven. Killing someone while driving drunk is manslaughter.
-:::
-
-#### **(1)08**. Murder
-
-A person who unlawfully kills another with malice aforethought is guilty under this code section.
-
-1. Enhancement for violation against a peace officer.
-
-A person who commits murder while engaging in a felony offense that has been proven to be a premeditated act is guilty under this code section.
-
-:::info
-Murder is defined clearly by a person’s premeditated forethought or plan to commit the murder. Manslaughter happens in a heat of passion, by criminal negligence or accident, or for some other incident that is not expected. The only exception to this is when someone commits a planned felony, such as planning to commit an arson. If someone dies as a result of the premeditated arson, it is no longer manslaughter and instead murder. Murder of an “NPC” will be charged as **(1)7**.
-:::
-
-#### **(1)09**. False Imprisonment
-
-A person who intentionally and unlawfully restrained, detained, or confined a person and made the person stay or go somewhere against his or her will is guilty under this code section.
 
 #### **(1)10**. Kidnapping
 
@@ -191,17 +64,7 @@ Murder of a law enforcement officer (LEO) is a criminal offense in which an indi
 
 Kidnapping of a law enforcement officer (LEO) is a criminal offense in which an individual forcibly or unlawfully seizes, transports, confines, or inveigles a law enforcement officer while they are performing official duties or due to their status as a law enforcement officer.
 
-### **Title 2.Crimes Against Property And Criminal Profiteering**
-
-#### **(2)01**. Arson
-
-- A person who intentionally and maliciously sets fire to or burns any structure, forest land, or property without prior authorization is guilty under this code section.
-- A person who intentionally aids, counsels, or helps facilitate the burning of any structure, forest land, or property without proper authorization is guilty under this code section.
-- A person who, through criminal accident or negligence, causes a fire to burn any structure, forest land, or property is guilty under this code section.
-
-:::info
-Arson’s criminality is when someone intentionally creates or helps create a fire.
-:::
+### **Title 2. Crimes Against Property And Criminal Profiteering**
 
 #### **(2)02**. Trespassing
 
@@ -1692,7 +1555,7 @@ Note: This is a federal code section and is considered an extraditable offense.
 
 1. Any person applying for a concealed carry weapons permit shall be a permanent resident of our state to qualify.
 
-### **Title 15.State Code Violations**
+### **Title 15. State Code Violations**
 
 #### **(15)01**. Racketeering
 
@@ -1743,7 +1606,7 @@ A person who uses profanity, loud or boisterous remarks, inappropriate speech, i
 
 A person who aids another in committing a crime or withholds information about them from authorities is guilty under this code section.
 
-### **Title 16.Correctional Services**
+### **Title 16. Correctional Services**
 
 ((OOC Note: The intent of this Title is to create an alternative punishment system for felonies for use when correctional services members are online. This is to enhance roleplay while ensuring a fair ability of all members to be able to interact with all departments. Admin may waive elements of this title in a real time basis to meet the needs of the community (such as during a recorded patrol).))
 
@@ -2013,7 +1876,8 @@ A person who illegally takes, possesses, imports, exports, sells, purchases, bar
 
 # Change Log
 
-### Date; law affected; change details
+### Date; Laws('s) Affected; Change Details;
 
 - 07/10/2024; All; Initialized;
-- 01/03/2025; All; Titles Adjusted, Formatting Changed, New Info Tooltips instead of Notes
+- 01/03/2025; All; Titles Adjusted, Formatting Changed, New Info Tooltips instead of Notes;
+- 3/28/2025; None; Added notes, fixed spacing in titles;
